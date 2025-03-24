@@ -30,7 +30,7 @@
 
 ### 📫 How to reach me:
 - 📧 Email: **arjun.pandit.ds@gmail.com**  
-- 💼 LinkedIn: [Arjun Pandit](https://www.linkedin.com/in/arjun-pandit/)  
+- 💼 LinkedIn: [Arjun Pandit](https://www.linkedin.com/in/ap3212227/)  
 - 🔗 GitHub: [@ArjunPanditDs](https://github.com/ArjunPanditDs)  
 
 ### 😄 Pronouns:  
