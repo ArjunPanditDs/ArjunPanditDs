@@ -1,0 +1,42 @@
+![banner](https://github.com/user-attachments/assets/dc0eee15-ebc2-49ab-9115-006932157406)
+
+
+- ## 👋 Hi, I’m Arjun Pandit  
+🚀 Aspiring Data Scientist | MCA | Python | ML | SQL | Power BI  
+
+### 👀 I’m interested in:
+- Machine Learning, Data Science, and AI  
+- Data Analytics and Visualization  
+- Building insightful dashboards and solving real-world problems with data  
+
+### 🌱 I’m currently learning:
+- **70 Days of Machine Learning Challenge** 📅  
+- Deep Learning and Advanced ML techniques  
+- Power BI for Data Visualization
+
+## 🛠 Skills & Tools  
+
+- **Programming:** Python, C, Java  
+- **Data Science:** Machine Learning, Deep Learning, Data Visualization  
+- **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, Power BI  
+- **Databases:** MySQL, SQL  
+- **Version Control:** Git, GitHub  
+
+
+### 💞️ I’m looking to collaborate on:
+- Open-source data science projects  
+- Kaggle competitions and real-world datasets  
+- Power BI dashboards and SQL-based analytics  
+
+### 📫 How to reach me:
+- 📧 Email: **arjun.pandit.ds@gmail.com**  
+- 💼 LinkedIn: [Arjun Pandit](https://www.linkedin.com/in/arjun-pandit/)  
+- 🔗 GitHub: [@ArjunPanditDs](https://github.com/ArjunPanditDs)  
+
+### 😄 Pronouns:  
+He/Him  
+
+### ⚡ Fun fact:  
+I love exploring historic places and capturing travel experiences through photography!  
+
+🚀 Follow my **70 Days of Machine Learning** journey on my GitHub! 🎯
