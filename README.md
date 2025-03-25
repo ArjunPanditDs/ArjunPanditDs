@@ -1,3 +1,9 @@
+
+
+## Profile Visits
+
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=ArjunPanditDs)
+
 ![banner](https://github.com/user-attachments/assets/dc0eee15-ebc2-49ab-9115-006932157406)
 
 
