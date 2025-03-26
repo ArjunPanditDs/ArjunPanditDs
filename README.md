@@ -17,8 +17,7 @@
 
 ### 🌱 I’m currently learning:
 - **70 Days of Machine Learning Challenge** 📅  
-- Deep Learning and Advanced ML techniques  
-- Power BI for Data Visualization
+- Deep Learning and Advanced ml techniques
 
 ## 🛠 Skills & Tools  
 
