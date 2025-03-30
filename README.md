@@ -42,6 +42,6 @@
 He/Him  
 
 ### ⚡ Fun fact:  
-I love exploring historic places and capturing travel experiences through photography!  
+I am Funny
 
 🚀 Follow my **70 Days of Machine Learning** journey on my GitHub! 🎯
