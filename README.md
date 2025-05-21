@@ -43,5 +43,3 @@ He/Him
 
 ### ⚡ Fun fact:  
 I am Funny
-
-🚀 Follow my **70 Days of Machine Learning** journey on my GitHub! 🎯
