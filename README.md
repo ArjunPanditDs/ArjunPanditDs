@@ -16,7 +16,7 @@
 - Building insightful dashboards and solving real-world problems with data  
 
 ### 🌱 I’m currently learning:
-- **70 Days of Machine Learning Challenge** 📅  
+- **Machine Learning** 📅  
 - Deep Learning and Advanced ml techniques
 
 ## 🛠 Skills & Tools  
